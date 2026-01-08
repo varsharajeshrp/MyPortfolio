@@ -93,8 +93,11 @@ section {
 }
 
 .home-img img {
-    width: 35vw;
-    animation: floatImage 4s ease-in-out infinite;
+  width: 300px;
+  height: 300px;
+  margin-left:58px;
+  border-radius: 50%;
+  animation: floatImage 4s ease-in-out infinite;
 }
 
 @keyframes floatImage {
