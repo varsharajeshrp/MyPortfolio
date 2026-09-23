@@ -63,12 +63,6 @@ Achievements
 * Actively participated in public speaking and leadership activities
 * Practiced problem solving through coding platforms
 
- Contact
-
-* **GitHub:** [Your GitHub Profile](https://github.com/)
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/)
-* **Email:** Your Email Address
-
 Portfolio
 
 This repository contains the source code for my personal portfolio website.
